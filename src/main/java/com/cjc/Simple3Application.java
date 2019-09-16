@@ -15,6 +15,8 @@ public class Simple3Application {
 	System.out.println("hiiii sonali");
 	
 	System.out.println(" hiii pradeep....");
+	
+	System.out.println("pooja love sukh");
 	}
 
 }
