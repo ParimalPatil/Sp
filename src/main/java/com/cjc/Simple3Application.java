@@ -8,13 +8,7 @@ public class Simple3Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Simple3Application.class, args);
-		System.out.println(" hiiiii");
-		System.out.println("Im Nilesh....");
-		System.out.println("Hau re Paryaaa.....");
-	
-	System.out.println("hiiii sonali");
-	
-	System.out.println(" hiii pradeep....");
+		System.out.println("new master parya..");
 	}
 
 }
