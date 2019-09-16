@@ -13,6 +13,8 @@ public class Simple3Application {
 		System.out.println("Hau re Paryaaa.....");
 	
 	System.out.println("hiiii sonali");
+	
+	System.out.println(" hiii pradeep....");
 	}
 
 }
