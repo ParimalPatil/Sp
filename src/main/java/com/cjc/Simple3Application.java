@@ -8,7 +8,7 @@ public class Simple3Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Simple3Application.class, args);
-		System.out.println("new master parya..");
+		System.out.println("new master parimal..");
 	}
 
 }
