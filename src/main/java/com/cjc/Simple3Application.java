@@ -8,6 +8,8 @@ public class Simple3Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Simple3Application.class, args);
+		System.out.println(" hiiiii");
+		System.out.println("Im Nilesh....");
 	}
 
 }
