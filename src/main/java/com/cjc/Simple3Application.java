@@ -10,6 +10,7 @@ public class Simple3Application {
 		SpringApplication.run(Simple3Application.class, args);
 		System.out.println(" hiiiii");
 		System.out.println("Im Nilesh....");
+		System.out.println("Hau re Paryaaa.....");
 	}
 
 }
